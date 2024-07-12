@@ -9,6 +9,8 @@
 - [日本語教師ピック](https://nihongopic.com/)
 - [にほんご部](https://nihongobu.net/)
 - [なに日本語ラボ](https://nani-blog.com/)
+- [ことわざ辞典](https://seiku.net/)
+- [ことわざ・慣用語の百科事典](https://proverb-encyclopedia.com/kotowaza100/)
 
 ### Grammar
 - [国語の文法](https://www.kokugobunpou.com/)
