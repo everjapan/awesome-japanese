@@ -7,6 +7,7 @@
 - [marumaru](https://nihongokyoshi-net.com/)
 - [旅する応用言語学](https://www.nihongo-appliedlinguistics.net/)
 - [日本語教師ピック](https://nihongopic.com/)
+- [にほんご部](https://nihongobu.net/)
 
 ### Grammar
 - [国語の文法](https://www.kokugobunpou.com/)
