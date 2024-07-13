@@ -11,6 +11,7 @@
 - [なに日本語ラボ](https://nani-blog.com/)
 - [ことわざ辞典](https://seiku.net/)
 - [ことわざ・慣用語の百科事典](https://proverb-encyclopedia.com/kotowaza100/)
+- [音速語言學習(日語)](https://jp.sonic-learning.com/)
 
 ### Grammar
 - [国語の文法](https://www.kokugobunpou.com/)
