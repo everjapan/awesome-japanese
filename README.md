@@ -3,6 +3,7 @@
 ## Websites
 
 - [日本語教師の広場](https://www.tomojuku.com/blog/)
+- [日本語教師応援サイト コトハジメcotohajime](https://cotohajime.net/)
 - [日本語ネット](https://nihongokyoshi-net.com/)
 - [marumaru](https://nihongokyoshi-net.com/)
 - [旅する応用言語学](https://www.nihongo-appliedlinguistics.net/)
