@@ -1,7 +1,10 @@
 # awesome-japanese
 
+→ [English Version](https://github.com/yudataguy/Awesome-Japanese)
+
 ## Websites
 
+- [IRODORI Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/)
 - [日本語教師の広場](https://www.tomojuku.com/blog/)
 - [日本語教師応援サイト コトハジメcotohajime](https://cotohajime.net/)
 - [日本語ネット](https://nihongokyoshi-net.com/)
