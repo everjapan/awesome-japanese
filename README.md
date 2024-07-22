@@ -2,6 +2,9 @@
 
 → [English Version](https://github.com/yudataguy/Awesome-Japanese)
 
+## Youtube
+- [Japanese Listening Shower](https://www.youtube.com/watch?v=Yf16yFNKMRY)
+
 ## Websites
 
 - [IRODORI Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/)
