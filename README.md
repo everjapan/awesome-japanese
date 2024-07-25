@@ -10,6 +10,7 @@
 - [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/zho/pages/home)
 - [IRODORI Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/)
   - [生活日本語](https://www.irodori.jpf.go.jp/starter/pdf.html)
+- [日本語敬語入門](http://nihongo.hum.tmu.ac.jp/mic-j/hyperkeigo/japan/main-j.html)
 - [日本語教育ナビ](https://japanese-language-education.com/)
 - [日本語教師の広場](https://www.tomojuku.com/blog/)
 - [日本語教師応援サイト コトハジメcotohajime](https://cotohajime.net/)
