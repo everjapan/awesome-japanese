@@ -26,6 +26,9 @@
 - [時雨の町](https://www.sigure.tw/)
 - [ようこそあすなろ学習室へ](https://gakusyu.shizuoka-c.ed.jp/index.html)
 
+### Bloggers
+- [kan-東大大学院で言語学を専攻](https://note.com/nihongo_kan/)
+
 ### Grammar
 - [国語の文法](https://www.kokugobunpou.com/)
 - [日本語文法の基礎](https://wordrabbit.jp/grammar/)
