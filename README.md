@@ -35,3 +35,7 @@
 
 ### Quiz
 - https://nihongokyoshi-net.com/jpq/
+
+### Training
+
+- [市進日本語eラーニング](https://www.ichishin-nihongo.com/index.html)
