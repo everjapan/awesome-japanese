@@ -8,6 +8,7 @@
 ## Websites
 
 - [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/zho/pages/home)
+- [ベーシック国語](https://www.nhk.or.jp/kokokoza/basickokugo/)
 - [IRODORI Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/)
   - [生活日本語](https://www.irodori.jpf.go.jp/starter/pdf.html)
 - [日本語敬語入門](http://nihongo.hum.tmu.ac.jp/mic-j/hyperkeigo/japan/main-j.html)
