@@ -11,6 +11,7 @@
 - [ベーシック国語](https://www.nhk.or.jp/kokokoza/basickokugo/)
 - [IRODORI Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/)
   - [生活日本語](https://www.irodori.jpf.go.jp/starter/pdf.html)
+- [Learn Japanese - Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/)
 - [日本語敬語入門](http://nihongo.hum.tmu.ac.jp/mic-j/hyperkeigo/japan/main-j.html)
 - [日本語教育ナビ](https://japanese-language-education.com/)
 - [日本語教師の広場](https://www.tomojuku.com/blog/)
