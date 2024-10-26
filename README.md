@@ -33,6 +33,7 @@
 
 ### Grammar
 - [国語の文法](https://www.kokugobunpou.com/)
+- [カクヨムー日本語文法](https://kakuyomu.jp/works/16816452219772998069/episodes/16817330656998105526)
 - [日本語文法の基礎](https://wordrabbit.jp/grammar/)
 
 ### Quiz
