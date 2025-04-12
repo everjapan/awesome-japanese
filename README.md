@@ -28,6 +28,7 @@
 - [音速語言學習(日語)](https://jp.sonic-learning.com/)
 - [時雨の町](https://www.sigure.tw/)
 - [ようこそあすなろ学習室へ](https://gakusyu.shizuoka-c.ed.jp/index.html)
+- [ホテルで使えると便利な日本語10選！](https://matcha-jp.com/jp/2598)
 
 ### Bloggers
 - [kan-東大大学院で言語学を専攻](https://note.com/nihongo_kan/)
