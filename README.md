@@ -7,6 +7,10 @@
 
 ## Websites
 
+- [「生活者としての外国人」のための日本語学習サイト](https://tsunagarujp.mext.go.jp/level00)
+- [やさしい日本語・简明日语](https://www.nhk.or.jp/lesson/zt/lessons/)
+- [言葉・漢字の使い分け まとめ](https://nihongokyoshi-net.com/use-different/)
+- [日本人がよく使うフレーズ・単語を一覧で紹介！](https://nativecamp.net/blog/20240914-Japanese)
 - [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/zho/pages/home)
 - [ベーシック国語](https://www.nhk.or.jp/kokokoza/basickokugo/)
 - [IRODORI Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/)
